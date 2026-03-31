@@ -9,9 +9,9 @@ body {
 .page {
   position: absolute;
   top: 0px;
-  left: 140px;
+  left: 190px;
   width: 1360px;
-  height: 1380px;
+  height: 1420px;
 }
 
 .title-box {
@@ -80,7 +80,7 @@ body {
 
 .quote-box {
   position: absolute;
-  top: 450px;
+  top: 485px;
   left: 0px;
   width: 650px;
   padding: 18px;
@@ -144,33 +144,33 @@ body {
 }
 
 .box1 {
-  top: 600px;
-  left: 0px;
+  top: 655px;
+  left: 35px;
 }
 
 .box2 {
-  top: 600px;
-  left: 450px;
+  top: 655px;
+  left: 485px;
 }
 
 .box3 {
-  top: 600px;
-  left: 900px;
+  top: 655px;
+  left: 935px;
 }
 
 .box4 {
-  top: 865px;
-  left: 185px;
+  top: 920px;
+  left: 220px;
 }
 
 .box5 {
-  top: 865px;
-  left: 675px;
+  top: 920px;
+  left: 710px;
 }
 
 .home-link {
   position: absolute;
-  top: 1175px;
+  top: 1235px;
   left: 0px;
   width: 320px;
 }
@@ -182,7 +182,7 @@ body {
 .content-page {
   position: absolute;
   top: 55px;
-  left: 140px;
+  left: 190px;
   width: 1360px;
 }
 
@@ -191,7 +191,7 @@ body {
   font-weight: bold;
   letter-spacing: 1.5px;
   margin-top: 0;
-  margin-bottom: 28px;
+  margin-bottom: 34px;
   color: #f5f1eb;
   font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
   text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.28);
@@ -199,36 +199,36 @@ body {
 
 .content-box {
   position: absolute;
-  top: 135px;
+  top: 150px;
   left: 0px;
   width: 1210px;
-  padding: 38px;
+  padding: 42px;
   border: 1px solid #465061;
   background-color: #1e2430;
 }
 
 .content-box p {
-  font-size: 24px;
-  line-height: 2;
+  font-size: 25px;
+  line-height: 2.05;
   margin-top: 0;
-  margin-bottom: 22px;
+  margin-bottom: 24px;
   color: #ece7df;
   font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
   letter-spacing: 0.15px;
 }
 
 .content-box ul {
-  font-size: 24px;
-  line-height: 2;
+  font-size: 25px;
+  line-height: 2.05;
   margin-top: 0;
-  margin-bottom: 22px;
+  margin-bottom: 24px;
   color: #ece7df;
   font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
 }
 
 .nav-box {
   position: absolute;
-  top: 930px;
+  top: 970px;
   left: 0px;
   width: 520px;
 }
