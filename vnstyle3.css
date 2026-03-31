@@ -9,16 +9,16 @@ body {
 .page {
   position: absolute;
   top: 0px;
-  left: 95px;
-  width: 1520px;
-  height: 1350px;
+  left: 140px;
+  width: 1360px;
+  height: 1380px;
 }
 
 .title-box {
   position: absolute;
   top: 42px;
   left: 0px;
-  width: 1520px;
+  width: 1360px;
 }
 
 .title-box h1 {
@@ -36,7 +36,7 @@ body {
   font-size: 30px;
   letter-spacing: 0.6px;
   margin-top: 0;
-  margin-bottom: 18px;
+  margin-bottom: 20px;
   color: #c7c3d9;
 }
 
@@ -52,18 +52,18 @@ body {
 
 .line-box {
   position: absolute;
-  top: 205px;
+  top: 220px;
   left: 0px;
-  width: 1520px;
+  width: 1360px;
   height: 0px;
   border-top: 1px solid #4a566c;
 }
 
 .intro-box {
   position: absolute;
-  top: 245px;
+  top: 255px;
   left: 0px;
-  width: 1450px;
+  width: 1290px;
   padding: 30px;
   border: 1px solid #465061;
   background-color: #1e2430;
@@ -71,25 +71,27 @@ body {
 
 .intro-box p {
   font-size: 24px;
-  line-height: 1.9;
+  line-height: 1.95;
   margin: 0;
   color: #ece7df;
+  font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  letter-spacing: 0.2px;
 }
 
 .quote-box {
   position: absolute;
-  top: 435px;
+  top: 450px;
   left: 0px;
-  width: 690px;
+  width: 650px;
   padding: 18px;
   border-left: 4px solid #8a95c9;
   background-color: #202734;
 }
 
 .quote-box p {
-  font-size: 36px;
+  font-size: 30px;
   font-style: italic;
-  line-height: 1.45;
+  line-height: 1.4;
   margin: 0;
   color: #f0ebf5;
 }
@@ -128,6 +130,7 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   color: #e6e0d8;
+  font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
 }
 
 .special-box {
@@ -141,33 +144,33 @@ body {
 }
 
 .box1 {
-  top: 565px;
+  top: 600px;
   left: 0px;
 }
 
 .box2 {
-  top: 565px;
-  left: 405px;
+  top: 600px;
+  left: 450px;
 }
 
 .box3 {
-  top: 565px;
-  left: 810px;
+  top: 600px;
+  left: 900px;
 }
 
 .box4 {
-  top: 825px;
+  top: 865px;
   left: 185px;
 }
 
 .box5 {
-  top: 825px;
-  left: 640px;
+  top: 865px;
+  left: 675px;
 }
 
 .home-link {
   position: absolute;
-  top: 1125px;
+  top: 1175px;
   left: 0px;
   width: 320px;
 }
@@ -179,58 +182,61 @@ body {
 .content-page {
   position: absolute;
   top: 55px;
-  left: 95px;
-  width: 1520px;
+  left: 140px;
+  width: 1360px;
 }
 
 .content-page h1 {
-  font-size: 60px;
+  font-size: 74px;
   font-weight: bold;
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
   margin-top: 0;
-  margin-bottom: 30px;
-  color: #f3efe8;
+  margin-bottom: 28px;
+  color: #f5f1eb;
   font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
   text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.28);
 }
 
 .content-box {
   position: absolute;
-  top: 125px;
+  top: 135px;
   left: 0px;
-  width: 1120px;
-  padding: 36px;
+  width: 1210px;
+  padding: 38px;
   border: 1px solid #465061;
   background-color: #1e2430;
 }
 
 .content-box p {
-  font-size: 23px;
-  line-height: 1.95;
+  font-size: 24px;
+  line-height: 2;
   margin-top: 0;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
   color: #ece7df;
+  font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  letter-spacing: 0.15px;
 }
 
 .content-box ul {
-  font-size: 23px;
-  line-height: 1.95;
+  font-size: 24px;
+  line-height: 2;
   margin-top: 0;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
   color: #ece7df;
+  font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
 }
 
 .nav-box {
   position: absolute;
-  top: 900px;
+  top: 930px;
   left: 0px;
   width: 520px;
 }
 
 .nav-box p {
-  font-size: 21px;
+  font-size: 22px;
   margin-top: 0;
-  margin-bottom: 12px;
+  margin-bottom: 14px;
 }
 
 a {
