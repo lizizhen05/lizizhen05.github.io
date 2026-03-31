@@ -9,83 +9,85 @@ body {
 .page {
   position: absolute;
   top: 0px;
-  left: 0px;
-  width: 1850px;
+  left: 95px;
+  width: 1520px;
   height: 1350px;
 }
 
 .title-box {
   position: absolute;
   top: 42px;
-  left: 90px;
-  width: 1500px;
+  left: 0px;
+  width: 1520px;
 }
 
 .title-box h1 {
-  font-size: 68px;
-  font-weight: normal;
-  letter-spacing: 1px;
+  font-size: 74px;
+  font-weight: bold;
+  letter-spacing: 1.5px;
   margin-top: 0;
-  margin-bottom: 12px;
-  color: #f3efe8;
+  margin-bottom: 16px;
+  color: #f5f1eb;
+  font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.28);
 }
 
 .subtitle {
-  font-size: 28px;
-  letter-spacing: 1px;
+  font-size: 30px;
+  letter-spacing: 0.6px;
   margin-top: 0;
-  margin-bottom: 8px;
+  margin-bottom: 18px;
   color: #c7c3d9;
 }
 
 .guide-line {
-  font-size: 16px;
-  letter-spacing: 1.2px;
+  font-size: 21px;
+  letter-spacing: 1.4px;
   font-family: "Courier New", "Lucida Console", monospace;
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 0;
-  color: #7fa0c7;
+  color: #8db4e2;
 }
 
 .line-box {
   position: absolute;
-  top: 188px;
-  left: 90px;
-  width: 1500px;
+  top: 205px;
+  left: 0px;
+  width: 1520px;
   height: 0px;
   border-top: 1px solid #4a566c;
 }
 
 .intro-box {
   position: absolute;
-  top: 225px;
-  left: 90px;
-  width: 1380px;
+  top: 245px;
+  left: 0px;
+  width: 1450px;
   padding: 30px;
   border: 1px solid #465061;
   background-color: #1e2430;
 }
 
 .intro-box p {
-  font-size: 22px;
-  line-height: 1.85;
+  font-size: 24px;
+  line-height: 1.9;
   margin: 0;
   color: #ece7df;
 }
 
 .quote-box {
   position: absolute;
-  top: 405px;
-  left: 90px;
-  width: 650px;
+  top: 435px;
+  left: 0px;
+  width: 690px;
   padding: 18px;
   border-left: 4px solid #8a95c9;
   background-color: #202734;
 }
 
 .quote-box p {
-  font-size: 32px;
+  font-size: 36px;
   font-style: italic;
   line-height: 1.45;
   margin: 0;
@@ -94,38 +96,38 @@ body {
 
 .link-box {
   position: absolute;
-  width: 330px;
-  height: 170px;
+  width: 360px;
+  height: 178px;
   padding: 24px;
   border: 1px solid #4b566b;
   background-color: #1b212c;
 }
 
 .card-label {
-  font-size: 13px;
-  letter-spacing: 2px;
+  font-size: 15px;
+  letter-spacing: 2.4px;
   text-transform: uppercase;
   font-family: "Courier New", "Lucida Console", monospace;
   margin-top: 0;
-  margin-bottom: 12px;
+  margin-bottom: 13px;
   color: #8ea3c7;
 }
 
 .link-box h2 {
-  font-size: 28px;
+  font-size: 29px;
   font-weight: normal;
-  line-height: 1.15;
-  letter-spacing: 0.3px;
+  line-height: 1.12;
+  letter-spacing: 0.2px;
   margin-top: 0;
-  margin-bottom: 14px;
+  margin-bottom: 16px;
 }
 
 .link-box p {
-  font-size: 18px;
-  line-height: 1.65;
+  font-size: 20px;
+  line-height: 1.72;
   margin-top: 0;
   margin-bottom: 0;
-  color: #ddd7cf;
+  color: #e6e0d8;
 }
 
 .special-box {
@@ -134,39 +136,39 @@ body {
 }
 
 .special-box h2 {
-  font-size: 31px;
+  font-size: 33px;
   color: #efe7ff;
 }
 
 .box1 {
-  top: 520px;
-  left: 90px;
+  top: 565px;
+  left: 0px;
 }
 
 .box2 {
-  top: 520px;
-  left: 500px;
+  top: 565px;
+  left: 405px;
 }
 
 .box3 {
-  top: 520px;
-  left: 910px;
+  top: 565px;
+  left: 810px;
 }
 
 .box4 {
-  top: 770px;
-  left: 290px;
+  top: 825px;
+  left: 185px;
 }
 
 .box5 {
-  top: 770px;
-  left: 760px;
+  top: 825px;
+  left: 640px;
 }
 
 .home-link {
   position: absolute;
-  top: 1060px;
-  left: 90px;
+  top: 1125px;
+  left: 0px;
   width: 320px;
 }
 
@@ -177,40 +179,42 @@ body {
 .content-page {
   position: absolute;
   top: 55px;
-  left: 90px;
-  width: 1500px;
+  left: 95px;
+  width: 1520px;
 }
 
 .content-page h1 {
-  font-size: 58px;
-  font-weight: normal;
+  font-size: 60px;
+  font-weight: bold;
   letter-spacing: 1px;
   margin-top: 0;
-  margin-bottom: 28px;
+  margin-bottom: 30px;
   color: #f3efe8;
+  font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.28);
 }
 
 .content-box {
   position: absolute;
-  top: 120px;
+  top: 125px;
   left: 0px;
-  width: 1080px;
+  width: 1120px;
   padding: 36px;
   border: 1px solid #465061;
   background-color: #1e2430;
 }
 
 .content-box p {
-  font-size: 22px;
-  line-height: 1.9;
+  font-size: 23px;
+  line-height: 1.95;
   margin-top: 0;
   margin-bottom: 20px;
   color: #ece7df;
 }
 
 .content-box ul {
-  font-size: 22px;
-  line-height: 1.9;
+  font-size: 23px;
+  line-height: 1.95;
   margin-top: 0;
   margin-bottom: 20px;
   color: #ece7df;
@@ -218,13 +222,13 @@ body {
 
 .nav-box {
   position: absolute;
-  top: 860px;
+  top: 900px;
   left: 0px;
-  width: 500px;
+  width: 520px;
 }
 
 .nav-box p {
-  font-size: 20px;
+  font-size: 21px;
   margin-top: 0;
   margin-bottom: 12px;
 }
