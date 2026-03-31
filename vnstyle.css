@@ -1,0 +1,169 @@
+body {
+  background-color: #f4f1ea;
+  color: #2f2a24;
+  font-family: Georgia, "Times New Roman", serif;
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1400px;
+  height: 1200px;
+}
+
+.title-box {
+  position: absolute;
+  top: 40px;
+  left: 80px;
+  width: 900px;
+}
+
+.title-box h1 {
+  font-size: 42px;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 20px;
+}
+
+.intro-box {
+  position: absolute;
+  top: 150px;
+  left: 80px;
+  width: 880px;
+  padding: 20px;
+  border: 2px solid #6d5f50;
+  background-color: #fbf8f2;
+}
+
+.intro-box p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.quote-box {
+  position: absolute;
+  top: 320px;
+  left: 80px;
+  width: 500px;
+  padding: 15px;
+  border: 1px solid #8a7b6a;
+  background-color: #efe7dc;
+}
+
+.quote-box p {
+  font-size: 22px;
+  margin: 0;
+}
+
+.link-box {
+  position: absolute;
+  width: 360px;
+  height: 150px;
+  padding: 18px;
+  border: 2px solid #6d5f50;
+  background-color: #fffdf8;
+}
+
+.link-box h2 {
+  font-size: 26px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.link-box p {
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.box1 {
+  top: 420px;
+  left: 80px;
+}
+
+.box2 {
+  top: 420px;
+  left: 500px;
+}
+
+.box3 {
+  top: 420px;
+  left: 920px;
+}
+
+.box4 {
+  top: 640px;
+  left: 290px;
+}
+
+.box5 {
+  top: 640px;
+  left: 710px;
+}
+
+.home-link {
+  position: absolute;
+  top: 860px;
+  left: 80px;
+  width: 300px;
+}
+
+.home-link p {
+  font-size: 20px;
+}
+
+.content-page {
+  position: absolute;
+  top: 40px;
+  left: 80px;
+  width: 1100px;
+}
+
+.content-page h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.content-box {
+  position: absolute;
+  top: 100px;
+  left: 0px;
+  width: 900px;
+  padding: 25px;
+  border: 2px solid #6d5f50;
+  background-color: #fffdf8;
+}
+
+.content-box p {
+  font-size: 21px;
+  line-height: 1.6;
+}
+
+.content-box ul {
+  font-size: 21px;
+  line-height: 1.8;
+}
+
+.nav-box {
+  position: absolute;
+  top: 620px;
+  left: 0px;
+  width: 500px;
+}
+
+.nav-box p {
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+
+a {
+  color: #5a3e2b;
+}
+
+a:hover {
+  color: #8c5e3c;
+}
