@@ -1,6 +1,6 @@
 body {
-  background-color: #e6e0d4;
-  color: #2f2926;
+  background-color: #161a22;
+  color: #e7e4df;
   font-family: Garamond, "Palatino Linotype", "Book Antiqua", "Times New Roman", serif;
   margin: 0;
   padding: 0;
@@ -16,75 +16,80 @@ body {
 
 .title-box {
   position: absolute;
-  top: 40px;
+  top: 42px;
   left: 90px;
   width: 1500px;
 }
 
 .title-box h1 {
-  font-size: 66px;
+  font-size: 68px;
   font-weight: normal;
   letter-spacing: 1px;
   margin-top: 0;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
+  color: #f3efe8;
 }
 
 .subtitle {
-  font-size: 24px;
+  font-size: 28px;
   letter-spacing: 1px;
   margin-top: 0;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
+  color: #c7c3d9;
 }
 
 .guide-line {
-  font-size: 18px;
-  letter-spacing: 0.5px;
-  font-style: italic;
+  font-size: 16px;
+  letter-spacing: 1.2px;
+  font-family: "Courier New", "Lucida Console", monospace;
+  text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 0;
-  color: #6c5948;
+  color: #7fa0c7;
 }
 
 .line-box {
   position: absolute;
-  top: 185px;
+  top: 188px;
   left: 90px;
   width: 1500px;
   height: 0px;
-  border-top: 1px solid #9a8a75;
+  border-top: 1px solid #4a566c;
 }
 
 .intro-box {
   position: absolute;
-  top: 220px;
+  top: 225px;
   left: 90px;
   width: 1380px;
   padding: 30px;
-  border: 1px solid #9a8a75;
-  background-color: #f4eee4;
+  border: 1px solid #465061;
+  background-color: #1e2430;
 }
 
 .intro-box p {
   font-size: 22px;
   line-height: 1.85;
   margin: 0;
+  color: #ece7df;
 }
 
 .quote-box {
   position: absolute;
-  top: 400px;
+  top: 405px;
   left: 90px;
-  width: 620px;
+  width: 650px;
   padding: 18px;
-  border-left: 4px solid #8b735d;
-  background-color: #ece4d7;
+  border-left: 4px solid #8a95c9;
+  background-color: #202734;
 }
 
 .quote-box p {
-  font-size: 31px;
+  font-size: 32px;
   font-style: italic;
   line-height: 1.45;
   margin: 0;
+  color: #f0ebf5;
 }
 
 .link-box {
@@ -92,21 +97,22 @@ body {
   width: 330px;
   height: 170px;
   padding: 24px;
-  border: 1px solid #9a8a75;
-  background-color: #f7f3ec;
+  border: 1px solid #4b566b;
+  background-color: #1b212c;
 }
 
 .card-label {
   font-size: 13px;
   letter-spacing: 2px;
   text-transform: uppercase;
+  font-family: "Courier New", "Lucida Console", monospace;
   margin-top: 0;
   margin-bottom: 12px;
-  color: #7a6754;
+  color: #8ea3c7;
 }
 
 .link-box h2 {
-  font-size: 27px;
+  font-size: 28px;
   font-weight: normal;
   line-height: 1.15;
   letter-spacing: 0.3px;
@@ -119,15 +125,17 @@ body {
   line-height: 1.65;
   margin-top: 0;
   margin-bottom: 0;
+  color: #ddd7cf;
 }
 
 .special-box {
-  background-color: #efe6d9;
-  border: 1px solid #7c6854;
+  background-color: #23202d;
+  border: 1px solid #7d6da3;
 }
 
 .special-box h2 {
   font-size: 31px;
+  color: #efe7ff;
 }
 
 .box1 {
@@ -179,6 +187,7 @@ body {
   letter-spacing: 1px;
   margin-top: 0;
   margin-bottom: 28px;
+  color: #f3efe8;
 }
 
 .content-box {
@@ -187,8 +196,8 @@ body {
   left: 0px;
   width: 1080px;
   padding: 36px;
-  border: 1px solid #9a8a75;
-  background-color: #f7f3ec;
+  border: 1px solid #465061;
+  background-color: #1e2430;
 }
 
 .content-box p {
@@ -196,6 +205,7 @@ body {
   line-height: 1.9;
   margin-top: 0;
   margin-bottom: 20px;
+  color: #ece7df;
 }
 
 .content-box ul {
@@ -203,6 +213,7 @@ body {
   line-height: 1.9;
   margin-top: 0;
   margin-bottom: 20px;
+  color: #ece7df;
 }
 
 .nav-box {
@@ -219,25 +230,25 @@ body {
 }
 
 a {
-  color: #5b4332;
+  color: #d9d3ff;
   text-decoration: none;
 }
 
 a:hover {
-  color: #7a5a45;
+  color: #98c7ff;
   text-decoration: underline;
 }
 
 .link-box:hover {
-  background-color: #eee5d8;
-  border: 1px solid #705c49;
+  background-color: #242c39;
+  border: 1px solid #7c8fb0;
 }
 
 .special-box:hover {
-  background-color: #e7dacb;
-  border: 1px solid #5f4c3d;
+  background-color: #2b2638;
+  border: 1px solid #b19cff;
 }
 
 .link-box:hover .card-label {
-  color: #5f4c3d;
+  color: #bfd3ff;
 }
