@@ -1,7 +1,7 @@
 body {
-  background-color: #e9e3d7;
-  color: #2f2a26;
-  font-family: Georgia, "Times New Roman", serif;
+  background-color: #e6e0d4;
+  color: #2f2926;
+  font-family: Garamond, "Palatino Linotype", "Book Antiqua", "Times New Roman", serif;
   margin: 0;
   padding: 0;
 }
@@ -10,27 +10,27 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  width: 1600px;
-  height: 1450px;
+  width: 1850px;
+  height: 1350px;
 }
 
 .title-box {
   position: absolute;
-  top: 55px;
+  top: 40px;
   left: 90px;
-  width: 1250px;
+  width: 1500px;
 }
 
 .title-box h1 {
-  font-size: 60px;
+  font-size: 66px;
   font-weight: normal;
   letter-spacing: 1px;
   margin-top: 0;
-  margin-bottom: 16px;
+  margin-bottom: 10px;
 }
 
 .subtitle {
-  font-size: 21px;
+  font-size: 24px;
   letter-spacing: 1px;
   margin-top: 0;
   margin-bottom: 0;
@@ -38,139 +38,142 @@ body {
 
 .line-box {
   position: absolute;
-  top: 170px;
+  top: 150px;
   left: 90px;
-  width: 1320px;
+  width: 1500px;
   height: 0px;
-  border-top: 1px solid #8a7a68;
+  border-top: 1px solid #9a8a75;
 }
 
 .intro-box {
   position: absolute;
-  top: 210px;
+  top: 190px;
   left: 90px;
-  width: 1180px;
+  width: 1380px;
   padding: 30px;
-  border: 1px solid #786a5a;
-  background-color: #f7f2e8;
+  border: 1px solid #9a8a75;
+  background-color: #f4eee4;
 }
 
 .intro-box p {
-  font-size: 21px;
-  line-height: 1.9;
+  font-size: 22px;
+  line-height: 1.85;
   margin: 0;
 }
 
 .quote-box {
   position: absolute;
-  top: 430px;
+  top: 380px;
   left: 90px;
-  width: 560px;
-  padding: 20px;
-  border-left: 4px solid #8c7560;
-  background-color: #efe8db;
+  width: 620px;
+  padding: 18px;
+  border-left: 4px solid #8b735d;
+  background-color: #ece4d7;
 }
 
 .quote-box p {
-  font-size: 28px;
+  font-size: 31px;
   font-style: italic;
-  line-height: 1.5;
+  line-height: 1.45;
   margin: 0;
 }
 
 .link-box {
   position: absolute;
-  width: 300px;
-  height: 160px;
+  width: 330px;
+  height: 165px;
   padding: 24px;
-  border: 1px solid #786a5a;
-  background-color: #fbf8f1;
+  border: 1px solid #9a8a75;
+  background-color: #f7f3ec;
 }
 
 .link-box h2 {
-  font-size: 26px;
+  font-size: 27px;
   font-weight: normal;
-  line-height: 1.2;
+  line-height: 1.15;
+  letter-spacing: 0.3px;
   margin-top: 0;
-  margin-bottom: 16px;
+  margin-bottom: 14px;
 }
 
 .link-box p {
-  font-size: 17px;
-  line-height: 1.7;
+  font-size: 18px;
+  line-height: 1.65;
   margin: 0;
 }
 
 .box1 {
-  top: 620px;
+  top: 520px;
   left: 90px;
 }
 
 .box2 {
-  top: 620px;
-  left: 450px;
+  top: 520px;
+  left: 500px;
 }
 
 .box3 {
-  top: 620px;
-  left: 810px;
+  top: 520px;
+  left: 910px;
 }
 
 .box4 {
-  top: 860px;
-  left: 270px;
+  top: 760px;
+  left: 300px;
+  background-color: #efe6d9;
+  border: 1px solid #7c6854;
 }
 
 .box5 {
-  top: 860px;
-  left: 630px;
+  top: 760px;
+  left: 760px;
 }
 
 .home-link {
   position: absolute;
-  top: 1130px;
+  top: 1035px;
   left: 90px;
   width: 320px;
 }
 
 .home-link p {
-  font-size: 20px;
+  font-size: 21px;
 }
 
 .content-page {
   position: absolute;
-  top: 60px;
+  top: 55px;
   left: 90px;
-  width: 1350px;
+  width: 1500px;
 }
 
 .content-page h1 {
-  font-size: 54px;
+  font-size: 58px;
   font-weight: normal;
   letter-spacing: 1px;
   margin-top: 0;
-  margin-bottom: 30px;
+  margin-bottom: 28px;
 }
 
 .content-box {
   position: absolute;
-  top: 130px;
+  top: 120px;
   left: 0px;
-  width: 980px;
-  padding: 34px;
-  border: 1px solid #786a5a;
-  background-color: #fbf8f1;
+  width: 1080px;
+  padding: 36px;
+  border: 1px solid #9a8a75;
+  background-color: #f7f3ec;
 }
 
 .content-box p {
-  font-size: 21px;
+  font-size: 22px;
   line-height: 1.9;
   margin-top: 0;
   margin-bottom: 20px;
 }
 
 .content-box ul {
-  font-size: 21px;
+  font-size: 22px;
   line-height: 1.9;
   margin-top: 0;
   margin-bottom: 20px;
@@ -178,7 +181,7 @@ body {
 
 .nav-box {
   position: absolute;
-  top: 820px;
+  top: 860px;
   left: 0px;
   width: 500px;
 }
@@ -190,10 +193,11 @@ body {
 }
 
 a {
-  color: #5d4635;
+  color: #5b4332;
   text-decoration: none;
 }
 
 a:hover {
+  color: #7a5a45;
   text-decoration: underline;
 }
